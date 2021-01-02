@@ -17,9 +17,12 @@ Besides from retake my habit of daily coding/learning I want to get certified to
 - Enrolling in a CS Masters Degree
 - Grokking the Coding Interview (educative.io)
 - #AWSCertifiedChallenge (Cloud Practitioner -> Developer, Solutions Architect -> Database, Data Analytics, Machine Learning), getting at least 2 in the year
+- Machine Learning and Data Analytics software for predicting match results
 
 ## Doing
 
 - Ütopyan Project
 
 ## Done
+
+## Feelings about my goals
