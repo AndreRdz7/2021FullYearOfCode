@@ -6,6 +6,18 @@ Besides from retake my habit of daily coding/learning I want to get certified to
 
 ## To Do
 
+- C++ STL Library knowledge
+- Python for ML/AI (improve, getting out of the tutorial-zone)
+- Angular (mastery)
+- Docker + Kubernetes
+- Tensorflow 2.0
+- Machine Learning - Mitchell, T.
+- Introducción al diseño y análisis de algoritmos - R.C.T., Lee & S.S., Tseng & R.C Chang & Y.T. Tsai
+- Interaction Design Foundation Courses on UX
+- Enrolling in a CS Masters Degree
+- Grokking the Coding Interview (educative.io)
+- #AWSCertifiedChallenge (Cloud Practitioner -> Developer, Solutions Architect -> Database, Data Analytics, Machine Learning), getting at least 2 in the year
+
 ## Doing
 
 ## Done
