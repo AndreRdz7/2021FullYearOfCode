@@ -20,3 +20,17 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [Cognitive Complexity](https://dzone.com/articles/how-readable-your-code-is-part-1-use-cognitive-com "How Readable Is Your Code? Part 2")
 - [Sonar Qube](https://www.sonarqube.org/downloads/ "Code Quality and Security")
 - [Mobile & Web Test Coverage Index](https://dzone.com/storage/assets/14187735-perfecto-mobile-web-test-coverage-index-fall2020.pdf)
+
+## Day 2, Jan 2nd 2021
+
+**Today's Progress**: .
+
+**Thoughts**: .
+
+**Resources**:
+
+- [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
+- [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+- [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+- [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/submissions/)
+- [Top 7 Web Development Trends to Expect in 2021](https://dzone.com/articles/top-7-web-development-trends-to-expect-in-2021)
