@@ -23,9 +23,9 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 ## Day 2, Jan 2nd 2021
 
-**Today's Progress**: .
+**Today's Progress**: More on LeetCode problems, to warm up more before the big re-start on Monday. LeetCode Daily Challenge completed.
 
-**Thoughts**: .
+**Thoughts**: Trends in 2021 look a lot like the ones in 2020, except from GraphQL, it's been a promise several years and it's not a trend or as trendy anymore, the problems that GraphQL solves maybe solved in a better structured regular API and there is no need right now to flood the market looking for GQL developers. Actually, I've never seen a job posting looking specifically for GQL, most jobs either ask for regular SQL (MySQL, Oracle, etc.) or NoSQL (Mongo), no graph databases, blockchain databases... I mean, at least 1 job in the world requires this kinds of knowledge and tech stacks, but its not the case right now, so instead of focusing on polishing GQL I will polish my SQL ans NoSQL skills, specially for my masters degree, since I'll be working with a lot of data.
 
 **Resources**:
 
