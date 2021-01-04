@@ -37,10 +37,12 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 ## Day 3, Jan 3rd 2021
 
-**Today's Progress**: .
+**Today's Progress**: Will be working on my new job tomorrow (first day of onboarding), so, to refresh my Scrum mindset, I'm re-reading the amazing book I read in 2019, The Art of Doing Twice the Work in Half the Time, by reading a chapter a day I'll be able to complete it before real-world tasks in my job. Took light after it, inspired by the book, took a look in the DZone on Agile, and found an article about productivity, to focus my attention in one thing and one thing only, this may sound like a no brainer, but it's underrated the non-multitask mindset, specially with social networks and the vast amount of distractions we currently have today. Solved LeetCode Daily Challenge.
 
-**Thoughts**:
+**Thoughts**: Happy and nervous about my new job, I know tomorrow is only the first day of my onboarding, I probably won't have anything but the contract signing and some introductory videos of phone calls about my role in the company, but feels really good to be part of them.
 
 **Resources**:
 
 - [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
+- [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://dzone.com/articles/attention-is-my-most-valuable-asset-for-productivi)
+- [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com.mx/Scrum-Doing-Twice-Work-Half/dp/038534645X)
