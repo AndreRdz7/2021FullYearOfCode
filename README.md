@@ -46,3 +46,11 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
 - [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://dzone.com/articles/attention-is-my-most-valuable-asset-for-productivi)
 - [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com.mx/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+
+## Day 4, Jan 4th 2021
+
+**Today's Progress**: .
+
+**Thoughts**: .
+
+**Resources**:
