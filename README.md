@@ -34,3 +34,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/submissions/)
 - [Top 7 Web Development Trends to Expect in 2021](https://dzone.com/articles/top-7-web-development-trends-to-expect-in-2021)
+
+## Day 3, Jan 3rd 2021
+
+**Today's Progress**: .
+
+**Thoughts**:
+
+**Resources**:
+
+- [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
