@@ -49,9 +49,9 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 ## Day 4, Jan 4th 2021
 
-**Today's Progress**: .
+**Today's Progress**: Not much, Mostly LeedCode the whole day, found some articles but they weren't nor useful nor interesting, sadly.
 
-**Thoughts**: .
+**Thoughts**: So my "first day" was only the delivery of my laptop, a huge and powefull MacBook Pro, so I search for videos of configuration and about the product and... it's quite expensive, so I'm really grateful for it, tomorrow I'll meet my team and my role, solo I'm pretty excited about it.
 
 **Resources**:
 
