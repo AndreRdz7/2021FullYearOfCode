@@ -54,3 +54,11 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Thoughts**: .
 
 **Resources**:
+
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+- [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
