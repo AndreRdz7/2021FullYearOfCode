@@ -62,3 +62,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 - [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+
+## Day 5, Jan 5th 2021
+
+**Today's Progress**: .
+
+**Thoughts**: .
+
+**Resources**:
+
+-[]()
