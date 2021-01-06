@@ -65,10 +65,11 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 ## Day 5, Jan 5th 2021
 
-**Today's Progress**: .
+**Today's Progress**: A loooot today happened at work, well, a lot of training in security and a lot of policy agreements. Tomorrow will start the 3-day bootcamp of intruduction to the company. Completed LeetCode Daily Challenge
 
-**Thoughts**: .
+**Thoughts**: I feel exhausted and overwhelmed by the amount of terminology and information, policies, etc. but overall I feel really happy to be joining Verato :)
 
 **Resources**:
 
--[]()
+- [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
