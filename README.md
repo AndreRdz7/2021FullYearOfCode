@@ -65,7 +65,7 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 ## Day 5, Jan 5th 2021
 
-**Today's Progress**: A loooot today happened at work, well, a lot of training in security and a lot of policy agreements. Tomorrow will start the 3-day bootcamp of intruduction to the company. Completed LeetCode Daily Challenge
+**Today's Progress**: A loooot today happened at work, well, a lot of training in security and a lot of policy agreements. Tomorrow will start the 3-day bootcamp of intruduction to the company. Completed LeetCode Daily Challenge.
 
 **Thoughts**: I feel exhausted and overwhelmed by the amount of terminology and information, policies, etc. but overall I feel really happy to be joining Verato :)
 
@@ -73,3 +73,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
+## Day 6, Jan 6th 2021
+
+**Today's Progress**: Completed my training on security, since it's super important in the company, in fact, I think it's the subject that most leaders talk about, and we are also going to be tested from time to time, specially on phising attacks, I need to be on the lookout for them. Completed LeetCode Daily Challenge.
+
+**Thoughts**: A lot of meetings today, a lot of info today, really interesting. I love the fact I can talk to the CEO, CTO, etc. whenever I want, it's just amazing the level of communication between all employees and I'm feeling very happy and welcomed.
+
+**Resources**:
+
+-[1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
