@@ -83,3 +83,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 -[1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+## Day 7, Jan 7th 2021
+
+**Today's Progress**: More introduction into the company, a lot of insight gained, the more the talk to us the more I know, I basically know about everything in the company. Completed LeetCode Daily Challenge
+
+**Thoughts**: More meetings, but every meeting makes me feel closer to the company, evevyone is so welcoming and overall really friendly. I feel happier everyday on the company, I just want to start familiarizing with the software and the technology they work on.
+
+**Resources**:
+
+-[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
