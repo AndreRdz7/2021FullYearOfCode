@@ -103,3 +103,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+
+## Day 9, Jan 9th 2021
+
+**Today's Progress**: Completed LeetCode Daily Challenge that took me a while.
+
+**Thoughts**: I decided to dedicate this weekend to rest, since something personal happened in my life and I want to keep it low. The LeetCode problem was super hard for me, had to end up looking online for help and the proper solution approach.
+
+**Resources**:
+
+- [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
