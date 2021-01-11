@@ -113,3 +113,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+
+## Day 10 Jan 10th 2021
+
+**Today's Progress**: Completed LeetCode Daily Challenge, another hard one.
+
+**Thoughts**: Feeling low due to what happened in my life but getting better overall, tomorrow is a new week and a new begginig. I'll give my 1000% on my job and look for a part-time or another project to work on and deliver my full potential.
+
+**Resources**:
+
+- [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
