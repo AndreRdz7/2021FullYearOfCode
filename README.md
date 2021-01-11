@@ -93,3 +93,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 -[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+## Day 8, Jan 8th 2021
+
+**Today's Progress**: Finished my first week of introduction, a lot more information and valuable insights on how the company works and interacts between all teams.Completed LeetCode Daily Challenge
+
+**Thoughts**: It was a lot to process, but overall I'm feeling really well (as much as tired, the amount of info was inmense). So next week will be more interactive and fun, finally will meet my team (which I only now my superior) and probably mas tasks, but first, some workshops on the tools the company uses to develop top quality software.
+
+**Resources**:
+
+- [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
