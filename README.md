@@ -123,3 +123,16 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+
+## Day 11 Jan 11th 2021
+
+**Today's Progress**: More information, tomorrow will have a "challenge" to explain what I've learnt, so far so good, I think I can explain everything, at least in the bigger picture. Completed LeetCode Daily Challenge, now an easy one. Read an amazing article about the UI trends for 2021, they look really complex, not gonna lie, I have a lot to learn and progress. Another super interesting article about DevOps, I want to implement on the Ütopyan project, a lot more testing and automation. Navigated through A Cloud Guru to get my traininig for AWS Developer certification, since Verato will be a sponsor, I want to find a good price and do my best to complete my training and examen in a month or less.
+
+**Thoughts**: A nice week start, feeling great about the company and tomorrow will be my computer setup so I can start downloading the code.
+
+**Resources**:
+
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [15 DevOps Trends to Expect in 2021](https://dzone.com/articles/15-devops-trends-to-expect-in-2021)
+- [2021 UI/UX Design Trends and How To Make Them Work For You](https://uxplanet.org/2021-ui-ux-design-trends-and-how-to-make-them-work-for-you-49d8a04fb09b)
+- [A Cloud Guru AWS](https://acloudguru.com/aws-cloud-training)
