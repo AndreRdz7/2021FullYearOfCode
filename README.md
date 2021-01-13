@@ -136,3 +136,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [15 DevOps Trends to Expect in 2021](https://dzone.com/articles/15-devops-trends-to-expect-in-2021)
 - [2021 UI/UX Design Trends and How To Make Them Work For You](https://uxplanet.org/2021-ui-ux-design-trends-and-how-to-make-them-work-for-you-49d8a04fb09b)
 - [A Cloud Guru AWS](https://acloudguru.com/aws-cloud-training)
+
+## Day 12 Jan 12th 2021
+
+**Today's Progress**: More information, I know, during an onboarding ? crazy. But overall the information feels more "familiar", since I've seen a lot of the products, a lot of the processes, now everything starts to feel more cohesive, even predictable. Solved LeetCode Daily Challenge. I will start my AWS Certification training tomorrow, as well as resuming the Ütopyan project with the Stripe inclusion, and unit testing, really excited about it.
+
+**Thoughts**: Somehow my energy got sky high and could get a proper sleep, ruining my day, but today with an early sleep I'l perform at 200% tomorrow.
+
+**Resources**:
+
+- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [AWS Certified Developer Associate 2021 Course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
