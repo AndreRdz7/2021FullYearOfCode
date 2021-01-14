@@ -147,3 +147,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [AWS Certified Developer Associate 2021 Course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+
+## Day 13 Jan 13th 2021
+
+**Today's Progress**: More deep dives on Verato's products, really enjoying the sessions. Completed LeetCode Daily Challenge, funny enough, I solved it in my mind in matter of seconds despite being a Medium problem, and got 100% faster and 100%  momory efficient, but once I finished my problem, went to the solution (the only described) and it turned out to be exactly the same, somehow, the bruteforce seemed more difficult to think and code. Started my AWS trining for my certification, probably will be doing the exam at the end of January and I really want to get a great score to show my dedication and knowledge.
+
+**Thoughts**: Feeling better, this whole onboarding felt overwhelming at the beginning but as the days passes it feels easier to understand and I'm feeling closer to the company, I like what they are doing and how they are doing it, such a great pool of smart and talented people.
+
+**Resources**:
+
+- [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+- [AWS Certified Developer Associate 2021 Course, Chapeters 1-3](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
