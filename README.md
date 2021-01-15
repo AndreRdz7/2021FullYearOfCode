@@ -150,7 +150,7 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 ## Day 13 Jan 13th 2021
 
-**Today's Progress**: More deep dives on Verato's products, really enjoying the sessions. Completed LeetCode Daily Challenge, funny enough, I solved it in my mind in matter of seconds despite being a Medium problem, and got 100% faster and 100%  momory efficient, but once I finished my problem, went to the solution (the only described) and it turned out to be exactly the same, somehow, the bruteforce seemed more difficult to think and code. Started my AWS trining for my certification, probably will be doing the exam at the end of January and I really want to get a great score to show my dedication and knowledge.
+**Today's Progress**: More deep dives on Verato's products, really enjoying the sessions. Completed LeetCode Daily Challenge, funny enough, I solved it in my mind in matter of seconds despite being a Medium problem, and got 100% faster and 100% momory efficient, but once I finished my problem, went to the solution (the only described) and it turned out to be exactly the same, somehow, the bruteforce seemed more difficult to think and code. Started my AWS trining for my certification, probably will be doing the exam at the end of January and I really want to get a great score to show my dedication and knowledge.
 
 **Thoughts**: Feeling better, this whole onboarding felt overwhelming at the beginning but as the days passes it feels easier to understand and I'm feeling closer to the company, I like what they are doing and how they are doing it, such a great pool of smart and talented people.
 
@@ -158,3 +158,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [AWS Certified Developer Associate 2021 Course, Chapeters 1-3](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+
+## Day 14 Jan 14th 2021
+
+**Today's Progress**: More on Verato's internal tools, they look awesome! I cannot wait to start using them and developing and start to contribute to this amazing company. Solved LeetCode Daily Challenge. More on AWS, EC2 instances theory and hands-on along with configurations and Security Groups, I really want to get my certification :D
+
+**Thoughts**: Second week almost done, I feel really tired I don't know why.
+
+**Resources**:
+
+- [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+- [AWS Certified Developer Associate 2021 Course, Chapeter 3](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
