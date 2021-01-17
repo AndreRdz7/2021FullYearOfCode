@@ -179,3 +179,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
+
+## Day 16 Jan 16th 2021
+
+**Today's Progress**: Back to the Utopyan project, got a meeting today, we specified the next steps to do, will prioritize them to finish it ASAP since I don't have such a workload that won't allow me to finish it.
+
+**Thoughts**: Nice, back to fullstacking a project, I'll miss my partner Antonio, but it will be fun to finish this alone.
+
+**Resources**:
+
+- [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
