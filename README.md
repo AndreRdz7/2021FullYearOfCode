@@ -169,3 +169,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [AWS Certified Developer Associate 2021 Course, Chapeter 3](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+
+## Day 15 Jan 15th 2021
+
+**Today's Progress**: Successful second week of my new job at Verato and I couldn't be happier, everyone is so smart and friendly, what the company is doing is so incredible. More info on specific products and internal working, that only gave more motivation to enroll in my master's degree in Machine Learning. Also got a lot of insights on how to progress on the company as a developer, how to level up and possibly move to Virginia next year.
+
+**Thoughts**: Feeling great, so motivated to be the very best in order to go to the Virginia HQ.
+
+**Resources**:
+
+- [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
