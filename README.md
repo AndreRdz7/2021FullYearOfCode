@@ -199,4 +199,19 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
+- [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
+
+## Day 18 Jan 17th 2021
+
+**Today's Progress**: Worked with my mentor in setting up my environment and get jenkins and kerosene working, along with the UI that I'll be working on, super excited to get started. He provided me with useful links and spent quite some time reading them, a lot of Angular core fundamentals on design patterns and architecture, with best practices and coding styles, a lot of useful information. I got the Trial of Heroes tutorial as "homework", will do it tomorrow.
+
+**Thoughts**: I want to become an Angular Pro, I'll review every single concept and best practice, along with the coding style guide to deliver the best code possible, I'm determined to get a certification on Angular also.
+
+**Resources**:
+
 - [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+- [The Missing Introduction to Angular and Modern Design Patterns](https://medium.com/ngx-rocket/the-missing-introduction-to-angular-and-modern-design-patterns-43e8815c2801)
+- [Tour of Heroes app and tutorial](https://angular.io/tutorial)
+- [Angular coding style guide](https://angular.io/guide/styleguide)
+- [What is Reactive Programming?](https://paulstovell.com/reactive-programming/)
+- [Cheat Sheet](https://angular.io/guide/cheatsheet)
