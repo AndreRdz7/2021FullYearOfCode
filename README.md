@@ -189,3 +189,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
+
+## Day 17 Jan 17th 2021
+
+**Today's Progress**: Made my "sprint planning", and I quote it because I'm alone in this project, it's not a s scrum team, but I'll do the plannig according to stories and with an unanimity voting on my side assigning the amount of points per story as I feel, no open debates. The Ütopyan project needs a lot of work, I'll do my very best to finish it the best way possible. Completed LeetCode Daily Challenge.
+
+**Thoughts**: So, I need to organize myself, a lot better, sadly, no more gaming for me, for now.
+
+**Resources**:
+
+- [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
+- [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
