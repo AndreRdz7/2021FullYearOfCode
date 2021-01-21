@@ -201,7 +201,7 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
 - [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 
-## Day 18 Jan 17th 2021
+## Day 18 Jan 18th 2021
 
 **Today's Progress**: Worked with my mentor in setting up my environment and get jenkins and kerosene working, along with the UI that I'll be working on, super excited to get started. He provided me with useful links and spent quite some time reading them, a lot of Angular core fundamentals on design patterns and architecture, with best practices and coding styles, a lot of useful information. I got the Trial of Heroes tutorial as "homework", will do it tomorrow.
 
@@ -215,3 +215,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [Angular coding style guide](https://angular.io/guide/styleguide)
 - [What is Reactive Programming?](https://paulstovell.com/reactive-programming/)
 - [Cheat Sheet](https://angular.io/guide/cheatsheet)
+
+## Day 19 Jan 19th 2021
+
+**Today's Progress**: Continued my Verato's onboarding, had some super interesting talks and insights on how the internal logical algorithm works and the overall interal services we interact with. Continued with the setup of the whole dev environment, but mainly it was troubleshooting of previous days and not that many progress since I worked on it with my mentor yesterday. Solved Leetcode Daily Challenge. Will change the goals, the AWS certification it's very helpful, but I won't work a lot with AWS, at least not in my current role and it just happened that I got contacted by a college professor for the oportunity of a big project and offered my 3 free months on a full year subscription to his platform IDF, that offers 32 UI/UX certificates, and as a fullstack developer, I think it will help me a lot, not only for Verato and Ütopyan, but for my future projects that my include my entrepreneurial ones and the big project my professor invited me.
+
+**Thoughts**: Super excited about the offering, also got another one from the Sportsday, a little update that may take me one day to develop and gain just enough for a great Valentine's present for my wife.
+
+**Resources**:
+
+- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [Interaction Design Foundation](https://www.interaction-design.org/)
