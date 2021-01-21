@@ -226,3 +226,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Interaction Design Foundation](https://www.interaction-design.org/)
+
+## Day 20 Jan 20th 2021
+
+**Today's Progress**: Continued my onboarding, with amazing insights on how I as a new hire should test my code and ensure it's developed the best way possible. Solved LeetCode Daily Challenge. Continued with the setup, on the databases of Mongo, Postgres and Solr, along with Tomcat ant Eclipse Setup, tomorrow the setup will be done !
+
+**Thoughts**: I feel les overwhelmed, probably because the amount of information is "less", or maybe because we know the foundations and only going deep dive on certain topics, anyway, it feels easier for now.
+
+**Resources**:
+
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
