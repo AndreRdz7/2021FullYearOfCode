@@ -268,3 +268,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [SportsDay](sportsday.com)
+
+## Day 24 Jan 24th 2021
+
+**Today's Progress**: Finished the prototype on the frontend for the client to review if it's okay, just before I do the backend (hardest part) on the game, if it's approved, I'll work tomorrow on the Angular routing and auth to access the game and start doing the backend, probably to finish it.
+
+**Thoughts**: I hope the client likes it, it feels cluncky for me, but theoretically is what the client wants, so I did my best to deliver.
+
+**Resources**:
+
+- [SportsDay](sportsday.com)
