@@ -248,3 +248,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
 - [The 7 Factors that Influence User Experience](https://www.interaction-design.org/literature/article/the-7-factors-that-influence-user-experience)
 
+## Day 22 Jan 22nd 2021
+
+**Today's Progress**: Long onboarding day with 4 more sessions, unfortunately, one of them was really paused on the speaker side and was hard to swallow. Almost finished the tour of heroes project, I try to understand every single line of code instead of copying and seeing everything working. 
+
+**Thoughts**: Reaching the end of the weeks it feels the tiredness, I acquired bad habits during my break in december, or I don't know what happened, everything just feels heavier than it should, maybe the lack of full day of coding, or nutrition + excersice in my life that my enery store levels deplete fully on friday. Either way I'm going to fix it ASAP, regain my good habits and push has hard as my brain could handle to achieve my goals and dreams, fulfill and exceed everyones expectations and just be the best version of myself nobody has ever seen.
+
+**Resources**:
+
+- [Tour of Heroes Guide](https://angular.io/tutorial/toh-pt6#simulate-a-data-server)
+- [Tour of Heroes Repository](https://github.com/AndreRdz7/TourOfHeroes)
