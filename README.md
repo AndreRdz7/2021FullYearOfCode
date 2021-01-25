@@ -258,3 +258,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [Tour of Heroes Guide](https://angular.io/tutorial/toh-pt6#simulate-a-data-server)
 - [Tour of Heroes Repository](https://github.com/AndreRdz7/TourOfHeroes)
+
+## Day 23 Jan 23rd 2021
+
+**Today's Progress**: Frontend code on the SportsDay Super Bowl LV minigame, it feels kindof a hard questionnaire, but it's what the client _wants_ so I only provide my very best to fulfill their wish. Added the home dashboard and proper DB modifications to access only the SB game and historic data of the Predator game.
+
+**Thoughts**: I missed worked on it, but the energy depletion is palpable, I hate feeling tired, and there is a lot of work to do on other things...
+
+**Resources**:
+
+- [SportsDay](sportsday.com)
