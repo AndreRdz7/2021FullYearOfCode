@@ -237,3 +237,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
+## Day 21 Jan 21st 2021
+
+**Today's Progress**: Slow onboarding day, today we use quite some time to present and view what every team is doing (showing progress, demoing), also had the townhall meeting that included a lot of interesting information about the company, what to expect this year and the accomplishments. Started the tour of heroes project to refresh my Angular knowledge. Started the mini super bowl project for SportsDay, mainly the planning and architecture. Completed LeetCode Daily Challenge. Had another meeting about coding the Verato way, it was pretty fun.
+
+**Thoughts**: I expect to grow a lot in here, I like the company a lot, my colleagues are awesome and I just want to be the MVP of the team.
+
+**Resources**:
+
+- [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
+- [The 7 Factors that Influence User Experience](https://www.interaction-design.org/literature/article/the-7-factors-that-influence-user-experience)
+
