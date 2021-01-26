@@ -273,7 +273,17 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 **Today's Progress**: Finished the prototype on the frontend for the client to review if it's okay, just before I do the backend (hardest part) on the game, if it's approved, I'll work tomorrow on the Angular routing and auth to access the game and start doing the backend, probably to finish it.
 
-**Thoughts**: I hope the client likes it, it feels cluncky for me, but theoretically is what the client wants, so I did my best to deliver.
+**Thoughts**: I hope the client likes it, it feels clunky to me, but theoretically is what the client wants, so I did my best to deliver.
+
+**Resources**:
+
+- [SportsDay](sportsday.com)
+
+## Day 25 Jan 25th 2021
+
+**Today's Progress**: 3 more onboarding sessions, more hands-on like with live demos, which I appreciate a lot, since they are more dynamic and feel more interactive overall, no sit back and relax but more a lot of interesting information that I will need to do my job properly. Finished the prototype of the new feature of SportsDay, just the backend is needed alongside with the new Angular routing to separate the Predator and the SBLV game.
+
+**Thoughts**: Glad the client liked my proposal at first sight, I'm definetely aware is not the best UI nor UX, but with this time restriction I feel is a proper way to handle it, making it responsive on actions and presenting the final information in a proper way.
 
 **Resources**:
 
