@@ -288,3 +288,15 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [SportsDay](sportsday.com)
+
+## Day 26 Jan 26th 2021
+
+**Today's Progress**: 2 more onboarding sessions, super interesting ones, specially the Jenkins and automation one, I'm definetly going to review my Jenkins knowledge, I probably won't use it at all at Verato, but it will definetly help me with the Ütopyan project once it starts growing, and my personal projects also. Bought a course at Udemy, mehhhh, feels super repetitive, this is the first time I regret buying a course.
+
+**Thoughts**: The course resulted to be, at least from what I've seen, super mediocre, not what I was expecting, not at all, I will focus on frontend for now.
+
+**Resources**:
+
+- [SportsDay](sportsday.com)
+- [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
+- [Java Spring Tutorial Masterclass](https://www.udemy.com/course/java-spring-framework-masterclass/)
