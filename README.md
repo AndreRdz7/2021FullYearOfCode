@@ -310,3 +310,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [SportsDay](sportsday.com)
+
+## Day 28 Jan 28th 2021
+
+**Today's Progress**: 2 more meetings, one was awe inspiring, it was from my team, I just love being in this team, everyone is so smart and friendly, they are so kind with everyone and they encourage us to learn from them and learning from us. Reviewed the codebase on Angular, the folder structure is very different from what I'm used to, but it's understandable, as far as I can tell it will be easy to work with and expand the code base. My new hire colleague is awesome at doing UI, I have so much to learn, I need to speed up my pace on my designing habilities and CSS knowledge.
+
+**Thoughts**: Everyday I'm feeling happier at Verato.
+
+**Resources**:
+
+- [Tour of Heroes](https://luis-tour-of-heroes-262207.netlify.app/ "My colleague work")
