@@ -300,3 +300,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 - [SportsDay](sportsday.com)
 - [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
 - [Java Spring Tutorial Masterclass](https://www.udemy.com/course/java-spring-framework-masterclass/)
+
+## Day 27 Jan 27th 2021
+
+**Today's Progress**: Attended a meeting to review some issues on testing, I barely understood anything, but it was really interesting how everyone was suggesting things and came to some conclusions in order to solve the problem. Almost finished the SportsDay minisprint for the SBLV, mostly the frontend is done, at least the final user part, I don't know if it's worth it right now to do the admin part, or just me updating in the mongo console.
+
+**Thoughts**: Feels amazing to make progress and knowing the client is happy with the work.
+
+**Resources**:
+
+- [SportsDay](sportsday.com)
