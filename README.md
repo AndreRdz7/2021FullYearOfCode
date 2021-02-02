@@ -341,3 +341,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
 - [SportsDay](sportsday.com)
+
+## Day 31 Jan 31st 2021
+
+**Today's Progress**: Final acceptance on the SportsDay feature, the client loved it and only a few tasks on the backend side, functionality is almost ready. More aesthetic changes on Ütopyan, it feels better, but maybe a new design on the product display is needed, something tells me that fits differently.
+
+**Thoughts**: I desperatly need a course on UI/UX, I feel lack luster on that part :C
+
+**Resources**:
+
+- [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
+- [SportsDay](sportsday.com)
