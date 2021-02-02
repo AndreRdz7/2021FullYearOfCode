@@ -352,3 +352,15 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 
 - [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
 - [SportsDay](sportsday.com)
+
+## Day 32 Feb 1st 2021
+
+**Today's Progress**: Light work on my holiday, but progress on SportsDay, fixing the navigation and routing with permissions and better acceptance, the client paused the progress since the feature will probably not be used, but if it's needed, it can be finished in an extensive day of 5-6 hours between dev and testing, so I will pause it for now to focus on Ütopyan and my moving/marriage. On the Utopyan project, made last UI fixed the client provided and some routing the template had, to avoid as much of useless information and components that are not needed. Solved LeetCode daily challenge.
+
+**Thoughts**: Starting the shortest month the right way by retaking the LC challenge, I will succeed this time, I have better motivations.
+
+**Resources**:
+
+- [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
+- [SportsDay](sportsday.com)
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
