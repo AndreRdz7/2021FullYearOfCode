@@ -320,3 +320,13 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [Tour of Heroes](https://luis-tour-of-heroes-262207.netlify.app/ "My colleague work")
+
+## Day 29 Jan 29th 2021
+
+**Today's Progress**: My first formal Sprint Plannig with my team, which I really feel part of, everyone is really supporting with the other members, a lot of interesting discussions about certain topics of the sprint and overall an interesting planning session, too bad I could not vote on the planning poker since I don't have the permissions just yet. Howerver a little bit more of plannig needs to be done and we are finishing it on Tuesday (since monday is day off for mexican Verato workers, yay!). More progress on making the Ütopyan page better, with styling and font changing according to the client.
+
+**Thoughts**: I'm as nervous as excited to get started with the sprint, I just hope my work helps the team and the company.
+
+**Resources**:
+
+- [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
