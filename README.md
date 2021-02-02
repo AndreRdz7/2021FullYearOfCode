@@ -330,3 +330,14 @@ This is similar to the 100DaysOfCodingChallenge I did before, but with a differe
 **Resources**:
 
 - [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
+
+## Day 30 Jan 30th 2021
+
+**Today's Progress**: More work on the SportsDay new SuperBowl feature, getting progress and acceptance of the client. More aesthetic details on the Ütopyan store, getting better and better.
+
+**Thoughts**: Day-off -> Side projects, this can only make me a better developer, I just hope to not burnout soon.
+
+**Resources**:
+
+- [Ütopyan](http://utopyan.com.s3-website-us-west-1.amazonaws.com/)
+- [SportsDay](sportsday.com)
